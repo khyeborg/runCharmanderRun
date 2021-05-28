@@ -481,8 +481,8 @@ function draw() {
 	 	text ("                   collected: " + pokemonCollected, 15, 60);
 	 	textSize(20);
 	 	fill(random(255), random(255), random(255));
-	 	text("Avoid the water Pokemons...", 15, 430);
-	 	text("Collect 10 fairy Pokemons to win!!!", 15, 470);
+	 	text("Avoid the water Pokemon...", 15, 430);
+	 	text("Collect 10 fairy Pokemon to win!!!", 15, 470);
 
 		// left, right, up, down of main character
 		if (keyIsDown(LEFT_ARROW)) { 
